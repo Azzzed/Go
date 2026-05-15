@@ -1,0 +1,3 @@
+module mi-juego
+
+go 1.26.1
